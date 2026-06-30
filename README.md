@@ -13,7 +13,7 @@ The objective of this project is to build a Zillow/Redfin-style property search 
 | Development Tools | Git, GitHub, VS Code, Postman |
 | Testing | Jest, React Testing Library, Supertest |
 
-🎯Project Goals
+## 🎯Project Goals
 
 * Build RESTful APIs for property data retrieval
 * Connect React applications to backend services
@@ -21,6 +21,6 @@ The objective of this project is to build a Zillow/Redfin-style property search 
 * Implement property search and filtering functionality
 * Apply software engineering best practices for version control and collaborative development
 
-🔄Status
+## 🔄Status
 
 This repository is actively being developed as part of the IDX Exchange Software Engineering Internship Program.
